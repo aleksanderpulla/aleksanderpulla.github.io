@@ -2489,7 +2489,7 @@ input[type="radio"] + label:before {
 .image.fit {
   display: block;
   margin: 0 0 2em 0;
-  width: 90%;
+  width: 100%;
 }
 
 .image.fit img {
